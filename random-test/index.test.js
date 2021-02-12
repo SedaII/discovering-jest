@@ -1,6 +1,6 @@
-const fn = require('./index.js')
-
-test('hello() return "hello"', () => {
-  const test = fn.hello()
-  expect(test).toBe('hello')
-})
+// const fn = require('./index.js')
+//
+// test('hello() return "hello"', () => {
+//   const test = fn.hello()
+//   expect(test).toBe('hello')
+// })

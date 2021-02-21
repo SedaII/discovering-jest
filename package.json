@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "test codewars": "jest ./codewars-solutions-tests/" 
   }
 }

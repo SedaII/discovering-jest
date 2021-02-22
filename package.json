@@ -1,6 +1,6 @@
 {
   "scripts": {
     "test": "jest",
-    "test codewars": "jest ./codewars-solutions-tests/" 
+    "test codewars": "jest ./codewars-solutions-tests/unique-in-order.test.js" 
   }
 }

@@ -1,6 +1,6 @@
 {
   "scripts": {
     "test": "jest",
-    "codewars": "jest vasya-clerk.test.js"
+    "codewars": "jest growth-of-a-population.test.js"
   }
 }

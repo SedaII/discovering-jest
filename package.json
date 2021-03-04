@@ -1,7 +1,7 @@
 {
   "scripts": {
     "test": "jest",
-    "codewars": "jest the-highest-profit-wins.test.js"
+    "codewars": "jest jaden-casing-strings.test.js"
   },
   "devDependencies": {
     "jest": "^26.6.3"

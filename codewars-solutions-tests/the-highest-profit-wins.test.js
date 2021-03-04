@@ -7,8 +7,4 @@ const minMax = require('./the-highest-profit-wins')
    test('minMax([12]) should return [12, 12]', () => {
      expect(minMax([12])).toStrictEqual([12, 12])
    })
-
-   test('minMax([12, 22, "A"]) should return [12, 22]', () => {
-    expect(minMax([12, 22, "A"])).toStrictEqual([12, 22])
-  })
  })
